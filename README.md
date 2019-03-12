@@ -8,3 +8,5 @@ In terms of our internship at the LMN (university of Marburg) we are reproducing
 
 ### Motivation
 We want to reproduce the study by Gao et al. (2018).
+
+### Workflow
