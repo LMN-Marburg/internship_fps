@@ -10,6 +10,13 @@ In terms of our internship at the LMN (university of Marburg) we are reproducing
 We want to reproduce the study by Gao et al. (2018).
 
 ### Workflow
+Measures:
+- Structural T1
+- Structural T2
+- Functional multiband
+- Functional
+- Functional whole brain (for coregistration)
+
 Upon measuring participants the following preprocessing steps were conducted:
 1. Convert DICOMS into the BIDS format using [HeuDiConv](https://github.com/nipy/heudiconv)
 2. Use [BIDS-validator](https://github.com/bids-standard/bids-validator) to check if the conversion was successful
