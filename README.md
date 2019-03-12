@@ -24,5 +24,3 @@ Upon measuring participants the following preprocessing steps were conducted:
 3. Use [pydeface](https://github.com/poldracklab/pydeface) to deface NIfTI-files and thus de-identify the scans
 4. Use [mriqc](https://github.com/poldracklab/mriqc) to do a quality check of the structural and functional images
 5. Preprocessing of the anatomical images using [mindboggle](https://mindboggle.info/)
-
-We first converted the raw dicom data into the nifti format using the docker container heudiconv
